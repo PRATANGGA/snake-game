@@ -140,7 +140,7 @@ const SettingsMenu = ({ settingsOpen, closeSettings }) => {
           {/* Opsi untuk memilih latar belakang */}
           <SettingDisplay
             setting={
-              <div className="d-flex align-items-center">
+              <div className="dpengatura-flex align-items-center">
                 <Back size={30} className="me-3 flex-shrink-0" />
                 <h5 className="mb-0 me-3">Pilih latar belakang</h5>
               </div>
